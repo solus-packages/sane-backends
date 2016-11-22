@@ -1,11 +1,11 @@
-name        : sane-backends
-version     : 1.0.24
-release     : 1
-source      :
+name       : sane-backends
+version    : 1.0.24
+release    : 2
+source     :
     - http://solus-us.tk/sources/sane-backends-1.0.24.tar.gz : 27c7085a54f1505d8b551e6f1e69d30e1ee57328b18429bb2225dabf4c45462d
-license     : GPL-2.0
-summary     : Sane Scanner Backends
-description : |
+license    : GPL-2.0
+summary    : Sane Scanner Backends
+description: |
     Scanner Access Now Easy and is an API that provides standardized access to any raster image scanner hardware.
 setup      : |
     %configure
